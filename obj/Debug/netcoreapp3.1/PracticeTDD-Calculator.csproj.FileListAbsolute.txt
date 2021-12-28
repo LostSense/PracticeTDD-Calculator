@@ -1,0 +1,14 @@
+E:\VisualStudioProjects\PracticeTDD-Calculator\PracticeTDD-Calculator\bin\Debug\netcoreapp3.1\PracticeTDD-Calculator.exe
+E:\VisualStudioProjects\PracticeTDD-Calculator\PracticeTDD-Calculator\bin\Debug\netcoreapp3.1\PracticeTDD-Calculator.deps.json
+E:\VisualStudioProjects\PracticeTDD-Calculator\PracticeTDD-Calculator\bin\Debug\netcoreapp3.1\PracticeTDD-Calculator.runtimeconfig.json
+E:\VisualStudioProjects\PracticeTDD-Calculator\PracticeTDD-Calculator\bin\Debug\netcoreapp3.1\PracticeTDD-Calculator.runtimeconfig.dev.json
+E:\VisualStudioProjects\PracticeTDD-Calculator\PracticeTDD-Calculator\bin\Debug\netcoreapp3.1\PracticeTDD-Calculator.dll
+E:\VisualStudioProjects\PracticeTDD-Calculator\PracticeTDD-Calculator\bin\Debug\netcoreapp3.1\PracticeTDD-Calculator.pdb
+E:\VisualStudioProjects\PracticeTDD-Calculator\PracticeTDD-Calculator\obj\Debug\netcoreapp3.1\PracticeTDD-Calculator.csproj.AssemblyReference.cache
+E:\VisualStudioProjects\PracticeTDD-Calculator\PracticeTDD-Calculator\obj\Debug\netcoreapp3.1\PracticeTDD-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioProjects\PracticeTDD-Calculator\PracticeTDD-Calculator\obj\Debug\netcoreapp3.1\PracticeTDD-Calculator.AssemblyInfoInputs.cache
+E:\VisualStudioProjects\PracticeTDD-Calculator\PracticeTDD-Calculator\obj\Debug\netcoreapp3.1\PracticeTDD-Calculator.AssemblyInfo.cs
+E:\VisualStudioProjects\PracticeTDD-Calculator\PracticeTDD-Calculator\obj\Debug\netcoreapp3.1\PracticeTDD-Calculator.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\PracticeTDD-Calculator\PracticeTDD-Calculator\obj\Debug\netcoreapp3.1\PracticeTDD-Calculator.dll
+E:\VisualStudioProjects\PracticeTDD-Calculator\PracticeTDD-Calculator\obj\Debug\netcoreapp3.1\PracticeTDD-Calculator.pdb
+E:\VisualStudioProjects\PracticeTDD-Calculator\PracticeTDD-Calculator\obj\Debug\netcoreapp3.1\PracticeTDD-Calculator.genruntimeconfig.cache
