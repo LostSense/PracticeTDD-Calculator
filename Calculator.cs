@@ -29,5 +29,6 @@ namespace PracticeTDD_Calculator
             }
             return a / b;
         }
+
     }
 }
