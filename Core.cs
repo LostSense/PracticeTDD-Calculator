@@ -67,7 +67,7 @@ namespace PracticeTDD_Calculator
             {
                 try
                 {
-                    calc.Divide(firstNum, secondNum);
+                    answer = calc.Divide(firstNum, secondNum);
                 }
                 catch
                 {
